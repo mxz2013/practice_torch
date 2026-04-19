@@ -1,0 +1,38 @@
+{
+  "relu": {
+    "status": "solved",
+    "solved_at": "2026-04-19T15:47:29.810321",
+    "best_time": 0.0757524999207817,
+    "attempts": 4
+  },
+  "softmax": {
+    "status": "solved",
+    "solved_at": "2026-04-19T13:02:41.698344",
+    "best_time": 0.005746542010456324,
+    "attempts": 2
+  },
+  "cross_entropy": {
+    "status": "solved",
+    "solved_at": "2026-04-19T14:28:43.301344",
+    "best_time": 0.020896250032819808,
+    "attempts": 2
+  },
+  "dropout": {
+    "status": "solved",
+    "solved_at": "2026-04-19T15:41:32.811594",
+    "best_time": 0.027774665970355272,
+    "attempts": 1
+  },
+  "embedding": {
+    "status": "solved",
+    "solved_at": "2026-04-19T16:03:30.715222",
+    "best_time": 0.02364487503655255,
+    "attempts": 1
+  },
+  "gelu": {
+    "status": "solved",
+    "solved_at": "2026-04-19T16:16:00.074704",
+    "best_time": 0.020760917919687927,
+    "attempts": 1
+  }
+}
