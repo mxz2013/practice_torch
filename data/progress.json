@@ -34,5 +34,23 @@
     "solved_at": "2026-04-19T16:16:00.074704",
     "best_time": 0.020760917919687927,
     "attempts": 1
+  },
+  "weight_init": {
+    "status": "solved",
+    "solved_at": "2026-04-20T12:27:27.693477",
+    "best_time": 0.005474667996168137,
+    "attempts": 1
+  },
+  "gradient_clipping": {
+    "status": "solved",
+    "attempts": 3,
+    "solved_at": "2026-04-20T16:08:16.990765",
+    "best_time": 0.004383416031487286
+  },
+  "gradient_accumulation": {
+    "status": "solved",
+    "solved_at": "2026-04-20T17:12:50.110182",
+    "best_time": 0.008975042030215263,
+    "attempts": 2
   }
 }
