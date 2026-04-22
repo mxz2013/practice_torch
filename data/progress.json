@@ -58,5 +58,11 @@
     "attempts": 4,
     "solved_at": "2026-04-22T18:44:53.436449",
     "best_time": 0.2675471260008635
+  },
+  "linear": {
+    "status": "solved",
+    "attempts": 3,
+    "solved_at": "2026-04-22T21:23:37.084221",
+    "best_time": 0.024218499995185994
   }
 }
