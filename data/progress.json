@@ -64,5 +64,35 @@
     "attempts": 3,
     "solved_at": "2026-04-22T21:23:37.084221",
     "best_time": 0.024218499995185994
+  },
+  "layernorm": {
+    "status": "solved",
+    "attempts": 5,
+    "solved_at": "2026-04-22T22:30:24.044806",
+    "best_time": 0.013820874984958209
+  },
+  "batchnorm": {
+    "status": "solved",
+    "attempts": 5,
+    "solved_at": "2026-04-23T15:16:34.477866",
+    "best_time": 0.017077374970540404
+  },
+  "rmsnorm": {
+    "status": "solved",
+    "solved_at": "2026-04-23T15:35:17.285712",
+    "best_time": 0.01995037597953342,
+    "attempts": 1
+  },
+  "mlp": {
+    "status": "solved",
+    "solved_at": "2026-04-23T16:09:27.593703",
+    "best_time": 0.02489495900226757,
+    "attempts": 1
+  },
+  "conv2d": {
+    "status": "solved",
+    "solved_at": "2026-04-23T17:42:42.329360",
+    "best_time": 0.025187290011672303,
+    "attempts": 2
   }
 }
