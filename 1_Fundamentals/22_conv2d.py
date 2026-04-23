@@ -38,8 +38,7 @@ def my_conv2d(
     B, C_in, H, W = x.shape
     C_out, _, kh, kw = weight.shape
     if padding > 0:
-        x = F.pad(x, [padding] * 4)  # pad all dimensions
-
+        x = F.pad(x, [padding] * 4)
     # F.pad expects padding specified as (left, right, top, bottom) — 4 values, one per side.
     # When you write [padding] * 4, you're creating:
     # [padding, padding, padding, padding] left    right    top    bottom
